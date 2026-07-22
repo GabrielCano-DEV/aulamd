@@ -28,7 +28,9 @@ Acesse o [google](https://www.google.com.br)
 
 ### Imagens
 
-![img](https://www.google.com/imgres?q=imagem&imgurl=https%3A%2F%2Frounder.pics%2Fassets%2Fimg%2Fui%2Fsquare-image.webp&imgrefurl=https%3A%2F%2Frounder.pics%2Fpt%2Fcrop-image-square%2F&docid=tLGczlOlyfCzKM&tbnid=qBln2LAvRRk79M&vet=12ahUKEwiB-bbK-eaVAxVrPbkGHYLyLE8QnPAOegUI-gEQAA..i&w=1176&h=760&hcb=2&ved=2ahUKEwiB-bbK-eaVAxVrPbkGHYLyLE8QnPAOegUI-gEQAA)
+![gato](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL3np4wVxXJMGF8WKQJRxHeTNedhV6q1IcT0LDEFaFBsagw0DHaTBtHXrn&s=10)
+
+![celular](download.webp)
 
 ### Exemplo de trecho de código:
 ```javascript
@@ -42,3 +44,5 @@ function boasVindas(nome) {
 | :--- | :--- | :--- |
 | Html | sim | ativo |
 | Markdown | sim | ativo |
+
+
