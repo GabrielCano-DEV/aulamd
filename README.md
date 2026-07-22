@@ -2,6 +2,9 @@
 ##   2 semestre 2026 - DEV-A
 ### Inicio com Markdown
 
+### texto de exemplo:
+ola caua vioto, você é meu amigão!!
+
 Vamos iniciar falando da hierarquia e esilos simples.
 
 ### **Negrito**
